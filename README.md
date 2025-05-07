@@ -22,6 +22,7 @@
 ```bash
 git clone https://github.com/RASP-Technologies/bq-data-transformer.git
 cd bq-data-transformer
+```
 
 ---
 
